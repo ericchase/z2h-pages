@@ -25,3 +25,5 @@ these folders, the license and ownership terms found within the subfolder's own
 
 If a subfolder contains no such file, it remains under the "All Rights
 Reserved" status defined in the General Terms above.
+
+[This file was written with the help of AI.]

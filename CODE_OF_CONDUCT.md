@@ -11,3 +11,5 @@ Below are some of the rules for page content that owners must follow:
 - **No Malicious Content**: Malicious code, harmful styles (CSS), or suspicious outbound links are forbidden and may be removed.
 
 This list establishes a clear standard; use it to govern your content accordingly. If something you want to put on your page feels like it belongs on this list, then it's probably not allowed.
+
+[This file was written with the help of AI.]
