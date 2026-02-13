@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  padding: 0.5em;
+  gap: 0.25em;
+}
+
+nav > a,
+nav > span {
+  background-color: darkgray;
+  border-radius: 0.5em;
+  color: white;
+  cursor: pointer;
+  font-size: 0.875em;
+  padding: 0.25em 0.5em;
+}
+nav > span {
+  cursor: default;
+  text-decoration: none;
+}
+
+nav > .page-home {
+  background-color: orange;
+  color: white;
+}
