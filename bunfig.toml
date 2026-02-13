@@ -1,0 +1,9 @@
+# https://bun.com/docs/runtime/bunfig
+
+[install]
+auto = "disable"
+exact = false
+saveTextLockfile = true
+
+[install.security]
+scanner = "@socketsecurity/bun-security-scanner"

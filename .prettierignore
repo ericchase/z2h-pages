@@ -1,0 +1,5 @@
+# Patterns from .gitignore are included
+
+*-lock.json
+*-lock.yaml
+bun.lock

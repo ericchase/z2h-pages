@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "preserve",
+    "moduleDetection": "legacy",
+    "noEmit": true,
+    "strict": true,
+    "allowJs": true,
+    "checkJs": true
+  }
+}
